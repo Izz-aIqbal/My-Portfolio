@@ -18,7 +18,7 @@ export const stats = [
 
 export const education = {
   degree: "Bachelor of Science in Artificial Intelligence",
-  period: "2022 – 2026",
+  period: "2023 – 2027",
   cgpa: "3.35",
   lastSgpa: "3.44",
   school: "Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)",
